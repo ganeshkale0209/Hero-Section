@@ -1,4 +1,4 @@
-# rejouice
+# Hero-Section
 # Animated Website GitHub Project
 
 Welcome to our Animated Website GitHub project, a platform where creativity meets technology to deliver captivating and dynamic web experiences. Elevate your web development skills with a curated collection of animations, seamlessly crafted to bring your websites to life.
@@ -25,7 +25,7 @@ Welcome to our Animated Website GitHub project, a platform where creativity meet
 
 ## Getting Started
 
-1. Clone the repository: git clone https://github.com/GowthamArya/rejouice.git
+1. Clone the repository: git clone https://github.com/ganeshkale0209/Hero-Section.git
 
 2. Customize animations and styles according to your project requirements.
 
